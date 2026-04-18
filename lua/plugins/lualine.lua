@@ -12,5 +12,6 @@ return {
             lualine_y = { },
             lualine_z = { 'location' }
         },
+        theme = 'tokyonight-moon'
     }
 }
